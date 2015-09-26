@@ -1,0 +1,187 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/about/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/work/bobaluv/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/work/demos/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/work/luckychinese/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_includes/head.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_config.yml",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/work/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/assets/js/scripts.js",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/base/_variables.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/layout/_header.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/layout/_footer.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_includes/tiles.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/design/_typography.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/layout/_portfolio.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/layout/_tiles.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/css/main.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/layout/_quick-tiles.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/base/_elements.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/layout/_split-content.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_site/about/index.html",
+		"/Users/andrewtsao/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_site/work/luckychinese/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_site/work/bobaluv/index.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_site/css/main.css",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_layouts/portfolio.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_layouts/portfolio-bobaluv.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_layouts/portfolio-demos.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_includes/footer.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/css/ie9.scss",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/css/ie9.css",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/css/_ionicons.min.css",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/Portfolio.sublime-project",
+		"/Users/andrewtsao/Desktop/Portfolio Examples/LR Website/sponsors.html",
+		"/Users/andrewtsao/Desktop/Portfolio/atsao.github.io/_sass/vendors/_mq.scss",
+		"/Users/andrewtsao/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&#44;",
+			"accent-red",
+			"$red"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"accent-color",
+			"$accent"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true
+}
