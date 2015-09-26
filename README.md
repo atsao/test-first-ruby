@@ -1,5 +1,7 @@
 #Test-First Ruby Project
-###Completed through The Odin Project
+Completed through The Odin Project
+
+
 
 This repo contains the Ruby files for the tasks outlined from [Test First - Learn Ruby](http://testfirst.org/learn_ruby).
 
